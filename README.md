@@ -3,6 +3,7 @@
 
 [BRENDA NTHENYA](https://github.com/brenda-nthenya/pizza_pizza.git)
 
+<img src="./images/Screenshot from 2022-03-21 09-58-58.png">
 ### Version
 03.2022/001
 
